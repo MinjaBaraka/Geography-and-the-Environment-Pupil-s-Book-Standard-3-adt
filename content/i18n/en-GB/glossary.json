@@ -1,0 +1,2236 @@
+{
+  "abrasive": {
+    "word": "abrasive",
+    "definition": "a material used to rub, smooth, clean, or polish a hard surface",
+    "variations": [
+      "abrasive",
+      "abrasives"
+    ],
+    "emoji": "🪨✨"
+  },
+  "adaptation": {
+    "word": "adaptation",
+    "definition": "the process of changing to deal better with new conditions",
+    "variations": [
+      "adapt",
+      "adapted",
+      "adapting"
+    ],
+    "emoji": "🔄🌍"
+  },
+  "afforestation": {
+    "word": "afforestation",
+    "definition": "the planting of trees in an area where there were few or no trees before",
+    "variations": [],
+    "emoji": "🌱🌲"
+  },
+  "agricultural": {
+    "word": "agricultural",
+    "definition": "connected with farming and growing crops or keeping animals",
+    "variations": [
+      "agricultural",
+      "agriculture"
+    ],
+    "emoji": "🚜🌾"
+  },
+  "agriculture": {
+    "word": "agriculture",
+    "definition": "the work of growing crops and keeping animals for food and other uses",
+    "variations": [
+      "agriculture",
+      "agricultural"
+    ],
+    "emoji": "🌾🚜"
+  },
+  "air pollution": {
+    "word": "air pollution",
+    "definition": "harmful gases, smoke, or dust making the air dirty",
+    "variations": [
+      "air pollution"
+    ],
+    "emoji": "🏭💨😷"
+  },
+  "altitude": {
+    "word": "altitude",
+    "definition": "the height of a place above the earth’s surface or sea level",
+    "variations": [
+      "altitude",
+      "altitudes"
+    ],
+    "emoji": "📏⛰️"
+  },
+  "appropriate": {
+    "word": "appropriate",
+    "definition": "right or suitable for a particular purpose",
+    "variations": [
+      "appropriate"
+    ],
+    "emoji": "✅"
+  },
+  "aquatic": {
+    "word": "aquatic",
+    "definition": "living or growing in water",
+    "variations": [
+      "aquatic"
+    ],
+    "emoji": "🐠💧"
+  },
+  "asthma": {
+    "word": "asthma",
+    "definition": "a breathing illness that can make it hard to breathe",
+    "variations": [
+      "asthma"
+    ],
+    "emoji": "🫁🤒"
+  },
+  "atmosphere": {
+    "word": "atmosphere",
+    "definition": "the layer of air around the Earth",
+    "variations": [
+      "atmosphere",
+      "atmospheres"
+    ],
+    "emoji": "☁️🌤️"
+  },
+  "atmospheric pressure": {
+    "word": "atmospheric pressure",
+    "definition": "the force made by the air pressing down on the earth",
+    "variations": [],
+    "emoji": "🌬️"
+  },
+  "authority": {
+    "word": "authority",
+    "definition": "a person or group with the power to make decisions and enforce rules",
+    "variations": [
+      "authority",
+      "authorities"
+    ],
+    "emoji": "👮🏛️"
+  },
+  "backfilling": {
+    "word": "backfilling",
+    "definition": "the act of putting soil or other materials back into a hole, especially in a mine",
+    "variations": [
+      "backfilling",
+      "backfill",
+      "backfilled"
+    ],
+    "emoji": "⛏️🕳️"
+  },
+  "basin": {
+    "word": "basin",
+    "definition": "a low bowl-shaped area on the earth’s surface that may hold water",
+    "variations": [
+      "basin",
+      "basins"
+    ],
+    "emoji": "🥣🌍💧"
+  },
+  "beekeeping": {
+    "word": "beekeeping",
+    "definition": "the activity of keeping bees for honey and other products",
+    "variations": [
+      "beekeeping",
+      "beekeeper",
+      "beekeepers"
+    ],
+    "emoji": "🐝🍯"
+  },
+  "benefit": {
+    "word": "benefit",
+    "definition": "something good or useful that helps people",
+    "variations": [
+      "benefit",
+      "benefits"
+    ],
+    "emoji": "👍✨"
+  },
+  "breed": {
+    "word": "breed",
+    "definition": "a type of animal within a kind, such as a kind of cow or goat.",
+    "variations": [
+      "breed",
+      "breeds"
+    ],
+    "emoji": "🐄🐐"
+  },
+  "breeding area": {
+    "word": "breeding area",
+    "definition": "a place where animals, especially fish, lay eggs and young ones grow",
+    "variations": [
+      "breeding area",
+      "breeding areas"
+    ],
+    "emoji": "🐟🥚🌿"
+  },
+  "breeding grounds": {
+    "word": "breeding grounds",
+    "definition": "places where animals lay eggs or produce and raise their young",
+    "variations": [
+      "breeding ground"
+    ],
+    "emoji": "🐣🐟"
+  },
+  "by-law": {
+    "word": "by-law",
+    "definition": "a rule made by a local authority or community",
+    "variations": [
+      "by-law",
+      "by-laws"
+    ],
+    "emoji": "📜"
+  },
+  "carbon dioxide": {
+    "word": "carbon dioxide",
+    "definition": "a gas in the air that increases when fuels are burned and can warm the Earth",
+    "variations": [
+      "carbon dioxide"
+    ],
+    "emoji": "💨🌍"
+  },
+  "chemical": {
+    "word": "chemical",
+    "definition": "a substance used in science, industry or farming that can affect other materials",
+    "variations": [
+      "chemicals"
+    ],
+    "emoji": "🧪"
+  },
+  "cholera": {
+    "word": "cholera",
+    "definition": "a serious disease that can spread through dirty water",
+    "variations": [
+      "cholera"
+    ],
+    "emoji": "🦠💧"
+  },
+  "classroom": {
+    "word": "classroom",
+    "definition": "a room where teaching and learning take place",
+    "variations": [
+      "classroom",
+      "classrooms"
+    ],
+    "emoji": "🏫"
+  },
+  "climate": {
+    "word": "climate",
+    "definition": "the usual weather of a place over a very long time",
+    "variations": [
+      "climate",
+      "climates",
+      "climatic"
+    ],
+    "emoji": "🌤️🌍"
+  },
+  "climate change": {
+    "word": "climate change",
+    "definition": "long-term changes in the Earth's weather patterns and temperatures",
+    "variations": [
+      "climate change"
+    ],
+    "emoji": "🌍🌡️"
+  },
+  "coastal": {
+    "word": "coastal",
+    "definition": "related to the land near the sea or ocean",
+    "variations": [
+      "coastal",
+      "coast",
+      "coasts"
+    ],
+    "emoji": "🌊🏖️"
+  },
+  "cobweb": {
+    "word": "cobweb",
+    "definition": "a net of sticky threads made by a spider to catch insects",
+    "variations": [
+      "cobweb",
+      "cobwebs"
+    ],
+    "emoji": "🕸️🕷️"
+  },
+  "committee": {
+    "word": "committee",
+    "definition": "a group of people chosen to work on a particular task",
+    "variations": [
+      "committee",
+      "committees"
+    ],
+    "emoji": "👥"
+  },
+  "component": {
+    "word": "component",
+    "definition": "a part that makes up a whole thing",
+    "variations": [
+      "component",
+      "components"
+    ],
+    "emoji": "🧩"
+  },
+  "compost": {
+    "word": "compost",
+    "definition": "rotted plant and food waste used to make the soil better for growing plants",
+    "variations": [
+      "compost",
+      "composts",
+      "composted",
+      "composting"
+    ],
+    "emoji": "🍂🌱♻️"
+  },
+  "conservation": {
+    "word": "conservation",
+    "definition": "the protection and careful use of natural resources and the environment",
+    "variations": [
+      "conservation",
+      "conserve",
+      "conserving",
+      "conserved"
+    ],
+    "emoji": "🌱♻️"
+  },
+  "conserve": {
+    "word": "conserve",
+    "definition": "to protect and use something carefully so it lasts",
+    "variations": [
+      "conserve",
+      "conserves",
+      "conserved",
+      "conserving",
+      "conservation"
+    ],
+    "emoji": "🌱🛡️"
+  },
+  "consumable": {
+    "word": "consumable",
+    "definition": "able to be used up, eaten, or drunk.",
+    "variations": [
+      "consumable",
+      "consumables"
+    ],
+    "emoji": "🍞🥤"
+  },
+  "contaminate": {
+    "word": "contaminate",
+    "definition": "to make something dirty, polluted or unsafe by adding harmful substances",
+    "variations": [
+      "contaminated",
+      "contaminates",
+      "contaminating",
+      "contamination"
+    ],
+    "emoji": "💧☣️"
+  },
+  "continent": {
+    "word": "continent",
+    "definition": "one of the large land areas of the Earth",
+    "variations": [
+      "continent",
+      "continents"
+    ],
+    "emoji": "🌍🗺️"
+  },
+  "contour farming": {
+    "word": "contour farming",
+    "definition": "a way of farming across a slope in lines to help stop soil erosion.",
+    "variations": [
+      "contour farming"
+    ],
+    "emoji": "⛰️🌾"
+  },
+  "crop": {
+    "word": "crop",
+    "definition": "a plant grown by people for food, sale, or other use.",
+    "variations": [
+      "crop",
+      "crops",
+      "cropping"
+    ],
+    "emoji": "🌽🌱"
+  },
+  "crop rotation": {
+    "word": "crop rotation",
+    "definition": "growing different crops on the same land in different seasons or years.",
+    "variations": [
+      "crop rotation"
+    ],
+    "emoji": "🔄🌾"
+  },
+  "cultivate": {
+    "word": "cultivate",
+    "definition": "to prepare land and grow crops on it.",
+    "variations": [
+      "cultivate",
+      "cultivates",
+      "cultivated",
+      "cultivating",
+      "cultivation"
+    ],
+    "emoji": "🌱🧑‍🌾"
+  },
+  "currency": {
+    "word": "currency",
+    "definition": "money used in a country.",
+    "variations": [
+      "currency",
+      "currencies"
+    ],
+    "emoji": "💰💱"
+  },
+  "decayed": {
+    "word": "decayed",
+    "definition": "rotted or broken down naturally",
+    "variations": [
+      "decay",
+      "decays",
+      "decayed",
+      "decaying"
+    ],
+    "emoji": "🍂🗑️"
+  },
+  "decomposable": {
+    "word": "decomposable",
+    "definition": "able to rot and break down naturally over time",
+    "variations": [
+      "decomposable",
+      "decompose",
+      "decomposes",
+      "decomposed",
+      "decomposing"
+    ],
+    "emoji": "🍃⏳"
+  },
+  "decompose": {
+    "word": "decompose",
+    "definition": "to rot or break down naturally into simpler materials",
+    "variations": [
+      "decompose",
+      "decomposes",
+      "decomposed",
+      "decomposing"
+    ],
+    "emoji": "🍂🪱"
+  },
+  "deforestation": {
+    "word": "deforestation",
+    "definition": "the cutting down or clearing of many trees in a forest",
+    "variations": [
+      "deforestation"
+    ],
+    "emoji": "🌳🪓🔥"
+  },
+  "degradation": {
+    "word": "degradation",
+    "definition": "damage or harm that makes something become worse",
+    "variations": [
+      "degradation",
+      "degrade",
+      "degrades",
+      "degraded",
+      "degrading"
+    ],
+    "emoji": "⚠️🌍"
+  },
+  "degraded": {
+    "word": "degraded",
+    "definition": "damaged or made worse in quality",
+    "variations": [
+      "degrade",
+      "degrades",
+      "degraded",
+      "degrading"
+    ],
+    "emoji": "⚠️🌍"
+  },
+  "depend": {
+    "word": "depend",
+    "definition": "to need someone or something for help or support",
+    "variations": [
+      "depend",
+      "depends",
+      "depended",
+      "depending"
+    ],
+    "emoji": "🤲"
+  },
+  "deplete": {
+    "word": "deplete",
+    "definition": "to use up most or all of something.",
+    "variations": [
+      "deplete",
+      "depletes",
+      "depleted",
+      "depleting"
+    ],
+    "emoji": "⬇️🌿"
+  },
+  "depression": {
+    "word": "depression",
+    "definition": "a low area in the land that is lower than the land around it",
+    "variations": [
+      "depression",
+      "depressions"
+    ],
+    "emoji": "⬇️🌍"
+  },
+  "detergent": {
+    "word": "detergent",
+    "definition": "a soap-like substance used for cleaning",
+    "variations": [
+      "detergent",
+      "detergents"
+    ],
+    "emoji": "🧴🫧"
+  },
+  "diarrhoea": {
+    "word": "diarrhoea",
+    "definition": "an illness in which waste leaves the body too often and in a watery form",
+    "variations": [
+      "diarrhoea"
+    ],
+    "emoji": "🤒🚽"
+  },
+  "discharge": {
+    "word": "discharge",
+    "definition": "to let out liquid, gas, or waste.",
+    "variations": [
+      "discharge",
+      "discharges",
+      "discharged",
+      "discharging"
+    ],
+    "emoji": "💧🏭"
+  },
+  "disease": {
+    "word": "disease",
+    "definition": "an illness that affects the body or mind",
+    "variations": [
+      "disease",
+      "diseases"
+    ],
+    "emoji": "🦠🤒"
+  },
+  "disease-resistant": {
+    "word": "disease-resistant",
+    "definition": "able to resist or avoid disease",
+    "variations": [],
+    "emoji": "🛡️🌱"
+  },
+  "disposal": {
+    "word": "disposal",
+    "definition": "the act of getting rid of something, especially waste",
+    "variations": [
+      "disposal",
+      "dispose",
+      "disposed",
+      "disposing"
+    ],
+    "emoji": "🗑️♻️"
+  },
+  "distribution": {
+    "word": "distribution",
+    "definition": "the way things are spread over an area",
+    "variations": [
+      "distribution",
+      "distributions",
+      "distribute",
+      "distributed"
+    ],
+    "emoji": "🗺️📍"
+  },
+  "domestic": {
+    "word": "domestic",
+    "definition": "connected with the home and everyday use in the house.",
+    "variations": [
+      "domestic"
+    ],
+    "emoji": "🏠🚰"
+  },
+  "drill": {
+    "word": "drill",
+    "definition": "to make a hole using a tool or machine.",
+    "variations": [
+      "drill",
+      "drills",
+      "drilled",
+      "drilling"
+    ],
+    "emoji": "🛠️🪨"
+  },
+  "drought": {
+    "word": "drought",
+    "definition": "a long time with little or no rain",
+    "variations": [
+      "drought",
+      "droughts"
+    ],
+    "emoji": "☀️🚱"
+  },
+  "drought-tolerant": {
+    "word": "drought-tolerant",
+    "definition": "able to continue growing with very little water",
+    "variations": [],
+    "emoji": "🌾☀️"
+  },
+  "dumping": {
+    "word": "dumping",
+    "definition": "throwing waste somewhere carelessly or illegally",
+    "variations": [
+      "dump",
+      "dumps",
+      "dumped",
+      "dumping"
+    ],
+    "emoji": "🗑️🚫"
+  },
+  "dust": {
+    "word": "dust",
+    "definition": "very small dry particles of dirt in the air or on surfaces",
+    "variations": [],
+    "emoji": "🌫️"
+  },
+  "earth": {
+    "word": "earth",
+    "definition": "the planet on which we live",
+    "variations": [
+      "Earth",
+      "earth"
+    ],
+    "emoji": "🌍"
+  },
+  "earthquake": {
+    "word": "earthquake",
+    "definition": "a sudden shaking of the ground",
+    "variations": [
+      "earthquake",
+      "earthquakes"
+    ],
+    "emoji": "🌍震"
+  },
+  "elevated": {
+    "word": "elevated",
+    "definition": "raised higher than the area around it",
+    "variations": [
+      "elevated"
+    ],
+    "emoji": "⬆️⛰️"
+  },
+  "elevation": {
+    "word": "elevation",
+    "definition": "the height of land above sea level",
+    "variations": [
+      "elevation",
+      "elevations"
+    ],
+    "emoji": "📏⛰️"
+  },
+  "emission": {
+    "word": "emission",
+    "definition": "gas, smoke, or other substance sent out into the air.",
+    "variations": [
+      "emission",
+      "emissions"
+    ],
+    "emoji": "🌫️🏭"
+  },
+  "employment": {
+    "word": "employment",
+    "definition": "paid work that gives people jobs",
+    "variations": [],
+    "emoji": "💼"
+  },
+  "energy": {
+    "word": "energy",
+    "definition": "power that is used to make things work, such as electricity or heat",
+    "variations": [
+      "energy",
+      "energies"
+    ],
+    "emoji": "⚡🔋"
+  },
+  "entrepreneurial": {
+    "word": "entrepreneurial",
+    "definition": "connected with starting and running a business.",
+    "variations": [
+      "entrepreneurial",
+      "entrepreneur",
+      "entrepreneurs"
+    ],
+    "emoji": "💡💼"
+  },
+  "environment": {
+    "word": "environment",
+    "definition": "everything around us, including natural things, people, and man-made things",
+    "variations": [
+      "environment",
+      "environments"
+    ],
+    "emoji": "🌿🏡"
+  },
+  "environmental conservation": {
+    "word": "environmental conservation",
+    "definition": "the protection and careful use of the environment and natural resources",
+    "variations": [
+      "environmental conservation"
+    ],
+    "emoji": "♻️🌿🌍"
+  },
+  "environmental degradation": {
+    "word": "environmental degradation",
+    "definition": "damage or harm done to the environment",
+    "variations": [
+      "environmental degradation"
+    ],
+    "emoji": "🏭🗑️🌍"
+  },
+  "erode": {
+    "word": "erode",
+    "definition": "to slowly wear away soil or rock by wind or water.",
+    "variations": [
+      "erode",
+      "erodes",
+      "eroded",
+      "eroding",
+      "erosion"
+    ],
+    "emoji": "💨🌧️🟫"
+  },
+  "erosion": {
+    "word": "erosion",
+    "definition": "the wearing away of soil or land by water, wind, or other forces",
+    "variations": [
+      "erosion",
+      "erode",
+      "erodes",
+      "eroded",
+      "eroding"
+    ],
+    "emoji": "🌧️⛰️"
+  },
+  "essential": {
+    "word": "essential",
+    "definition": "very important and necessary",
+    "variations": [
+      "essential",
+      "essentials"
+    ],
+    "emoji": "❗⭐"
+  },
+  "explosive": {
+    "word": "explosive",
+    "definition": "a substance or device that can burst violently with great force",
+    "variations": [
+      "explosives"
+    ],
+    "emoji": "💥"
+  },
+  "export": {
+    "word": "export",
+    "definition": "to send goods to another country for sale.",
+    "variations": [
+      "export",
+      "exports",
+      "exported",
+      "exporting"
+    ],
+    "emoji": "📦🚢"
+  },
+  "extinction": {
+    "word": "extinction",
+    "definition": "the complete dying out of a kind of plant or animal",
+    "variations": [
+      "extinction"
+    ],
+    "emoji": "🦋⚠️"
+  },
+  "extract": {
+    "word": "extract",
+    "definition": "to take something out from where it is found.",
+    "variations": [
+      "extract",
+      "extracts",
+      "extracted",
+      "extracting",
+      "extraction"
+    ],
+    "emoji": "⛏️📤"
+  },
+  "extreme": {
+    "word": "extreme",
+    "definition": "very great, very strong, or more than usual.",
+    "variations": [
+      "extreme"
+    ],
+    "emoji": "⚠️🌪️"
+  },
+  "farming": {
+    "word": "farming",
+    "definition": "the work of growing crops and sometimes keeping animals.",
+    "variations": [
+      "farm",
+      "farms",
+      "farming",
+      "farmer",
+      "farmers"
+    ],
+    "emoji": "🚜🌾"
+  },
+  "feature": {
+    "word": "feature",
+    "definition": "an important part or characteristic of something",
+    "variations": [
+      "feature",
+      "features"
+    ],
+    "emoji": "⭐"
+  },
+  "felling": {
+    "word": "felling",
+    "definition": "the act of cutting down trees",
+    "variations": [
+      "fell",
+      "felled"
+    ],
+    "emoji": "🪓🌳"
+  },
+  "fertile": {
+    "word": "fertile",
+    "definition": "able to help plants grow well",
+    "variations": [
+      "fertile"
+    ],
+    "emoji": "🌱🌾"
+  },
+  "fertiliser": {
+    "word": "fertiliser",
+    "definition": "a natural or chemical substance added to soil to help plants grow",
+    "variations": [
+      "fertilisers"
+    ],
+    "emoji": "🌱🧪"
+  },
+  "fertility": {
+    "word": "fertility",
+    "definition": "the quality of soil that helps plants grow well",
+    "variations": [
+      "fertility",
+      "fertile"
+    ],
+    "emoji": "🌱🟫"
+  },
+  "fine": {
+    "word": "fine",
+    "definition": "money paid as a punishment for breaking a rule or law",
+    "variations": [
+      "fine",
+      "fines",
+      "fined"
+    ],
+    "emoji": "💰⚖️"
+  },
+  "fishing": {
+    "word": "fishing",
+    "definition": "the activity of catching fish and other water animals",
+    "variations": [],
+    "emoji": "🎣🐟"
+  },
+  "flood": {
+    "word": "flood",
+    "definition": "a large amount of water covering land that is usually dry",
+    "variations": [
+      "flood",
+      "floods",
+      "flooding"
+    ],
+    "emoji": "🌊🏠"
+  },
+  "flooding": {
+    "word": "flooding",
+    "definition": "the covering of land with a large amount of water",
+    "variations": [
+      "flood",
+      "floods",
+      "flooded"
+    ],
+    "emoji": "🌊"
+  },
+  "floods": {
+    "word": "floods",
+    "definition": "large amounts of water covering land that is usually dry",
+    "variations": [
+      "flood",
+      "floods",
+      "flooding"
+    ],
+    "emoji": "🌊🏞️"
+  },
+  "foreign exchange": {
+    "word": "foreign exchange",
+    "definition": "money earned from selling goods or services to other countries",
+    "variations": [],
+    "emoji": "💱💰🌍"
+  },
+  "forest": {
+    "word": "forest",
+    "definition": "a large area covered with many trees",
+    "variations": [
+      "forest",
+      "forests"
+    ],
+    "emoji": "🌳🌲"
+  },
+  "free-range": {
+    "word": "free-range",
+    "definition": "describing animals that move around outside instead of being kept inside all the time.",
+    "variations": [
+      "free-range"
+    ],
+    "emoji": "🐓🌿"
+  },
+  "fresh water": {
+    "word": "fresh water",
+    "definition": "water that is not salty, such as water in rivers and lakes",
+    "variations": [],
+    "emoji": "💧🏞️"
+  },
+  "garden": {
+    "word": "garden",
+    "definition": "an area of land near a home or school where flowers, vegetables, grass, or other plants are grown",
+    "variations": [
+      "garden",
+      "gardens",
+      "gardening"
+    ],
+    "emoji": "🌷🌿"
+  },
+  "Geography": {
+    "word": "Geography",
+    "definition": "the study of the Earth, places, people, and their environment",
+    "variations": [
+      "geography"
+    ],
+    "emoji": "🌍🗺️"
+  },
+  "global warming": {
+    "word": "global warming",
+    "definition": "the slow rise in the Earth's temperature caused by gases such as carbon dioxide",
+    "variations": [
+      "global warming"
+    ],
+    "emoji": "🌍🌡️"
+  },
+  "grazing": {
+    "word": "grazing",
+    "definition": "the eating of grass by animals in a field or open land",
+    "variations": [
+      "grazing"
+    ],
+    "emoji": "🐄🌿"
+  },
+  "greenhouse gas": {
+    "word": "greenhouse gas",
+    "definition": "a gas that traps heat in the atmosphere",
+    "variations": [
+      "greenhouse gases"
+    ],
+    "emoji": "🌡️☁️"
+  },
+  "greenhouse gases": {
+    "word": "greenhouse gases",
+    "definition": "gases in the air that trap heat and make the Earth warmer",
+    "variations": [
+      "greenhouse gas",
+      "greenhouse gases"
+    ],
+    "emoji": "🌍🌡️☁️"
+  },
+  "habitat": {
+    "word": "habitat",
+    "definition": "the natural home of a plant or animal",
+    "variations": [
+      "habitat",
+      "habitats"
+    ],
+    "emoji": "🐟🌿🏞️"
+  },
+  "harmful": {
+    "word": "harmful",
+    "definition": "causing damage, illness, or danger",
+    "variations": [
+      "harmful"
+    ],
+    "emoji": "⚠️"
+  },
+  "harvesting": {
+    "word": "harvesting",
+    "definition": "collecting or taking useful plants or animals for use",
+    "variations": [
+      "harvest",
+      "harvested"
+    ],
+    "emoji": "🧺🐟"
+  },
+  "herbicide": {
+    "word": "herbicide",
+    "definition": "a chemical used to kill unwanted plants or weeds.",
+    "variations": [
+      "herbicide",
+      "herbicides"
+    ],
+    "emoji": "🌿🧪"
+  },
+  "hill": {
+    "word": "hill",
+    "definition": "an area of land that is higher than the land around it, but lower than a mountain",
+    "variations": [
+      "hill",
+      "hills"
+    ],
+    "emoji": "🌄⛰️"
+  },
+  "home environment": {
+    "word": "home environment",
+    "definition": "all the things found in and around a home",
+    "variations": [
+      "home environment",
+      "home environments"
+    ],
+    "emoji": "🏡🌼"
+  },
+  "humidity": {
+    "word": "humidity",
+    "definition": "the amount of water vapour in the air",
+    "variations": [],
+    "emoji": "💧☁️"
+  },
+  "hurricane": {
+    "word": "hurricane",
+    "definition": "a very strong storm with powerful winds and heavy rain",
+    "variations": [
+      "hurricane",
+      "hurricanes"
+    ],
+    "emoji": "🌪️🌧️"
+  },
+  "hydro-electric power": {
+    "word": "hydro-electric power",
+    "definition": "electric power made from moving water",
+    "variations": [
+      "hydro-electric power"
+    ],
+    "emoji": "💧⚡"
+  },
+  "illegal": {
+    "word": "illegal",
+    "definition": "not allowed by law",
+    "variations": [],
+    "emoji": "🚫⚖️"
+  },
+  "indoor": {
+    "word": "indoor",
+    "definition": "inside a building or house",
+    "variations": [
+      "indoor",
+      "indoors"
+    ],
+    "emoji": "🪑🏠"
+  },
+  "industries": {
+    "word": "industries",
+    "definition": "businesses or factories that make or process goods",
+    "variations": [
+      "industry",
+      "industries"
+    ],
+    "emoji": "🏭⚙️"
+  },
+  "industry": {
+    "word": "industry",
+    "definition": "business activity in factories where goods are made or processed",
+    "variations": [
+      "industry",
+      "industries",
+      "industrial"
+    ],
+    "emoji": "🏭⚙️"
+  },
+  "infrastructure": {
+    "word": "infrastructure",
+    "definition": "basic structures such as roads, bridges, and buildings that people use",
+    "variations": [
+      "infrastructure"
+    ],
+    "emoji": "🛣️🏗️"
+  },
+  "insect": {
+    "word": "insect",
+    "definition": "a small animal with six legs, such as a fly or mosquito",
+    "variations": [
+      "insect",
+      "insects"
+    ],
+    "emoji": "🦟🐜"
+  },
+  "insect-repelling": {
+    "word": "insect-repelling",
+    "definition": "able to keep insects away",
+    "variations": [
+      "insect-repelling",
+      "repel",
+      "repels",
+      "repelled",
+      "repelling"
+    ],
+    "emoji": "🦟🚫"
+  },
+  "interact": {
+    "word": "interact",
+    "definition": "to act together or affect one another",
+    "variations": [
+      "interact",
+      "interacts",
+      "interacting",
+      "interaction"
+    ],
+    "emoji": "🤝🔄"
+  },
+  "irrigation": {
+    "word": "irrigation",
+    "definition": "the supply of water to land or crops to help plants grow",
+    "variations": [
+      "irrigation"
+    ],
+    "emoji": "💧🌱"
+  },
+  "kraal": {
+    "word": "kraal",
+    "definition": "a fenced area used for keeping livestock such as cows or goats",
+    "variations": [
+      "kraal",
+      "kraals"
+    ],
+    "emoji": "🐄🐐🪵"
+  },
+  "lake": {
+    "word": "lake",
+    "definition": "a large area of water surrounded by land",
+    "variations": [
+      "lake",
+      "lakes"
+    ],
+    "emoji": "🏞️💧"
+  },
+  "landform": {
+    "word": "landform",
+    "definition": "a natural feature or shape of the earth’s surface",
+    "variations": [
+      "landform",
+      "landforms"
+    ],
+    "emoji": "🌍🏞️"
+  },
+  "landscape": {
+    "word": "landscape",
+    "definition": "the visible shape and features of an area of land",
+    "variations": [
+      "landscape",
+      "landscapes"
+    ],
+    "emoji": "🏞️🌄"
+  },
+  "latrine": {
+    "word": "latrine",
+    "definition": "a simple toilet, often built outside",
+    "variations": [
+      "latrine",
+      "latrines"
+    ],
+    "emoji": "🚻"
+  },
+  "leguminous": {
+    "word": "leguminous",
+    "definition": "describing plants such as beans and peas that can help improve the soil.",
+    "variations": [
+      "leguminous"
+    ],
+    "emoji": "🫘🌱"
+  },
+  "livestock": {
+    "word": "livestock",
+    "definition": "farm animals such as cows, goats, and sheep",
+    "variations": [
+      "livestock"
+    ],
+    "emoji": "🐄🐐"
+  },
+  "living organisms": {
+    "word": "living organisms",
+    "definition": "all things that are alive, such as people, animals, and plants",
+    "variations": [
+      "living organism",
+      "living organisms"
+    ],
+    "emoji": "🧍🐘🌱"
+  },
+  "lumbering": {
+    "word": "lumbering",
+    "definition": "the activity of cutting trees for wood",
+    "variations": [
+      "lumbering",
+      "lumber"
+    ],
+    "emoji": "🪵🌲"
+  },
+  "malaria": {
+    "word": "malaria",
+    "definition": "a serious disease spread by some mosquitoes",
+    "variations": [
+      "malaria"
+    ],
+    "emoji": "🦟🤒"
+  },
+  "man-made": {
+    "word": "man-made",
+    "definition": "made by people, not by nature",
+    "variations": [
+      "man-made"
+    ],
+    "emoji": "🏠🛣️"
+  },
+  "manure": {
+    "word": "manure",
+    "definition": "animal waste used to make soil richer for plants",
+    "variations": [
+      "manure",
+      "manures",
+      "manured"
+    ],
+    "emoji": "🐄🌿"
+  },
+  "marine": {
+    "word": "marine",
+    "definition": "connected with the sea",
+    "variations": [],
+    "emoji": "🌊🐠"
+  },
+  "mercury": {
+    "word": "mercury",
+    "definition": "a liquid metal sometimes used in gold mining",
+    "variations": [
+      "mercury"
+    ],
+    "emoji": "⚙️🥈"
+  },
+  "mine": {
+    "word": "mine",
+    "definition": "a place where minerals such as gold or tin are dug from the ground",
+    "variations": [
+      "mine",
+      "mines",
+      "mined",
+      "mining"
+    ],
+    "emoji": "⛏️🪨"
+  },
+  "mineral": {
+    "word": "mineral",
+    "definition": "a natural substance found in the ground",
+    "variations": [
+      "mineral",
+      "minerals"
+    ],
+    "emoji": "⛏️🪨"
+  },
+  "mining": {
+    "word": "mining",
+    "definition": "the work of digging minerals or metals out of the ground",
+    "variations": [
+      "mining",
+      "mine",
+      "mines"
+    ],
+    "emoji": "⛏️🪨"
+  },
+  "mitigation": {
+    "word": "mitigation",
+    "definition": "action taken to reduce the harmful effects of something",
+    "variations": [
+      "mitigate",
+      "mitigated"
+    ],
+    "emoji": "🛡️🌍"
+  },
+  "mixed cropping": {
+    "word": "mixed cropping",
+    "definition": "growing different crops together on the same farm.",
+    "variations": [
+      "mixed cropping"
+    ],
+    "emoji": "🌽🌱"
+  },
+  "mobilise": {
+    "word": "mobilise",
+    "definition": "to organise people so they can work together for a purpose",
+    "variations": [
+      "mobilise",
+      "mobilises",
+      "mobilised",
+      "mobilising",
+      "mobilization",
+      "mobilisation"
+    ],
+    "emoji": "👥📣"
+  },
+  "moisture": {
+    "word": "moisture",
+    "definition": "a small amount of water or wetness in something",
+    "variations": [
+      "moisture",
+      "moist"
+    ],
+    "emoji": "💧🌿"
+  },
+  "mop": {
+    "word": "mop",
+    "definition": "a tool with a long handle and soft material at one end, used for cleaning floors",
+    "variations": [
+      "mop",
+      "mops",
+      "mopped",
+      "mopping"
+    ],
+    "emoji": "🧹🪣"
+  },
+  "mountain": {
+    "word": "mountain",
+    "definition": "a very high area of land with steep sides",
+    "variations": [
+      "mountain",
+      "mountains"
+    ],
+    "emoji": "⛰️❄️"
+  },
+  "mulching": {
+    "word": "mulching",
+    "definition": "covering soil with grass, leaves, or other materials to keep it moist and protected.",
+    "variations": [
+      "mulch",
+      "mulching"
+    ],
+    "emoji": "🍂🟫"
+  },
+  "natural": {
+    "word": "natural",
+    "definition": "made by nature and not by people",
+    "variations": [
+      "natural",
+      "naturally"
+    ],
+    "emoji": "🌿⛰️"
+  },
+  "natural hazard": {
+    "word": "natural hazard",
+    "definition": "a natural event that can cause harm to people, animals or property",
+    "variations": [
+      "natural hazard",
+      "natural hazards",
+      "hazard",
+      "hazards"
+    ],
+    "emoji": "⚠️🌪️🌊"
+  },
+  "noise pollution": {
+    "word": "noise pollution",
+    "definition": "too much unwanted sound that disturbs people or animals.",
+    "variations": [
+      "noise pollution"
+    ],
+    "emoji": "🔊⚠️"
+  },
+  "nomadic pastoralism": {
+    "word": "nomadic pastoralism",
+    "definition": "a way of life in which people move from place to place with their animals to find water and grass.",
+    "variations": [
+      "nomadic pastoralism"
+    ],
+    "emoji": "🐄🚶🌍"
+  },
+  "nursery": {
+    "word": "nursery",
+    "definition": "a place where young plants are grown before being planted elsewhere",
+    "variations": [
+      "nursery",
+      "nurseries"
+    ],
+    "emoji": "🪴🌱"
+  },
+  "obligation": {
+    "word": "obligation",
+    "definition": "something that a person must do because it is their duty",
+    "variations": [
+      "obligation",
+      "obligations"
+    ],
+    "emoji": "📜✅"
+  },
+  "ocean": {
+    "word": "ocean",
+    "definition": "a very large body of salt water",
+    "variations": [
+      "ocean",
+      "oceans"
+    ],
+    "emoji": "🌊"
+  },
+  "organic": {
+    "word": "organic",
+    "definition": "natural and not made with harmful chemicals",
+    "variations": [
+      "organic"
+    ],
+    "emoji": "🌿🍃"
+  },
+  "organic farming": {
+    "word": "organic farming",
+    "definition": "farming that uses natural methods and avoids harmful chemicals",
+    "variations": [],
+    "emoji": "🚜🌿"
+  },
+  "organism": {
+    "word": "organism",
+    "definition": "a living thing, such as a person, animal, or plant",
+    "variations": [
+      "organism",
+      "organisms"
+    ],
+    "emoji": "🦋🌱"
+  },
+  "ornament": {
+    "word": "ornament",
+    "definition": "an object worn or used for decoration.",
+    "variations": [
+      "ornament",
+      "ornaments"
+    ],
+    "emoji": "💍✨"
+  },
+  "outdoor": {
+    "word": "outdoor",
+    "definition": "outside a building or house",
+    "variations": [
+      "outdoor",
+      "outdoors"
+    ],
+    "emoji": "🌳☀️"
+  },
+  "oxygen": {
+    "word": "oxygen",
+    "definition": "a gas in the air that people and animals need to breathe",
+    "variations": [
+      "oxygen"
+    ],
+    "emoji": "💨🫁"
+  },
+  "packaging": {
+    "word": "packaging",
+    "definition": "materials used to wrap or hold products",
+    "variations": [
+      "packaging",
+      "packages"
+    ],
+    "emoji": "📦🛍️"
+  },
+  "participate": {
+    "word": "participate",
+    "definition": "to take part in an activity",
+    "variations": [
+      "participate",
+      "participates",
+      "participated",
+      "participating",
+      "participation"
+    ],
+    "emoji": "🙋🤝"
+  },
+  "pastoralist": {
+    "word": "pastoralist",
+    "definition": "a person who keeps and moves livestock, often to find pasture and water.",
+    "variations": [
+      "pastoralist",
+      "pastoralists"
+    ],
+    "emoji": "🐐👣"
+  },
+  "pasture": {
+    "word": "pasture",
+    "definition": "land covered with grass where animals feed.",
+    "variations": [
+      "pasture",
+      "pastures"
+    ],
+    "emoji": "🌿🐄"
+  },
+  "peak": {
+    "word": "peak",
+    "definition": "the top point of a mountain or hill",
+    "variations": [
+      "peak",
+      "peaks"
+    ],
+    "emoji": "⛰️🔺"
+  },
+  "pest": {
+    "word": "pest",
+    "definition": "a small animal or insect that damages plants or crops",
+    "variations": [
+      "pest",
+      "pests"
+    ],
+    "emoji": "🐛🌾"
+  },
+  "pesticide": {
+    "word": "pesticide",
+    "definition": "a chemical used to kill insects or other pests that damage crops.",
+    "variations": [
+      "pesticide",
+      "pesticides"
+    ],
+    "emoji": "🐛🧪"
+  },
+  "photosynthesis": {
+    "word": "photosynthesis",
+    "definition": "the process by which green plants use sunlight to make their own food",
+    "variations": [
+      "photosynthesis"
+    ],
+    "emoji": "☀️🌿"
+  },
+  "plain": {
+    "word": "plain",
+    "definition": "a large area of mostly flat land",
+    "variations": [
+      "plain",
+      "plains"
+    ],
+    "emoji": "🌾🏞️"
+  },
+  "plastic products": {
+    "word": "plastic products",
+    "definition": "things made from plastic, such as bottles, bags, or containers",
+    "variations": [
+      "plastic product",
+      "plastic products"
+    ],
+    "emoji": "🧴🛍️"
+  },
+  "plateau": {
+    "word": "plateau",
+    "definition": "a large area of flat land that is higher than the land around it",
+    "variations": [
+      "plateau",
+      "plateaus"
+    ],
+    "emoji": "🟫⛰️"
+  },
+  "plough": {
+    "word": "plough",
+    "definition": "to turn over the soil to prepare it for planting",
+    "variations": [
+      "plough",
+      "ploughs",
+      "ploughed",
+      "ploughing"
+    ],
+    "emoji": "🚜🌱"
+  },
+  "poison": {
+    "word": "poison",
+    "definition": "a harmful substance that can cause illness or death",
+    "variations": [
+      "poisons",
+      "poisoned",
+      "poisoning"
+    ],
+    "emoji": "☠️🧪"
+  },
+  "pollutant": {
+    "word": "pollutant",
+    "definition": "a harmful substance that makes air, water or land dirty",
+    "variations": [
+      "pollutant",
+      "pollutants"
+    ],
+    "emoji": "☠️🌫️"
+  },
+  "pollution": {
+    "word": "pollution",
+    "definition": "harmful dirty substances added to air, water, or land",
+    "variations": [
+      "pollution",
+      "pollute",
+      "pollutes",
+      "polluted",
+      "polluting"
+    ],
+    "emoji": "🏭💨🗑️"
+  },
+  "preserve": {
+    "word": "preserve",
+    "definition": "to keep something safe and in good condition",
+    "variations": [
+      "preserve",
+      "preserves",
+      "preserved",
+      "preserving",
+      "preservation"
+    ],
+    "emoji": "🛡️🌿"
+  },
+  "process": {
+    "word": "process",
+    "definition": "to treat or change a material to make a product.",
+    "variations": [
+      "process",
+      "processes",
+      "processed",
+      "processing"
+    ],
+    "emoji": "⚙️🏭"
+  },
+  "rainfall": {
+    "word": "rainfall",
+    "definition": "rain that falls in a place over a period of time",
+    "variations": [
+      "rainfall"
+    ],
+    "emoji": "🌧️💧"
+  },
+  "ranch": {
+    "word": "ranch",
+    "definition": "a large farm where animals such as cattle are kept.",
+    "variations": [
+      "ranch",
+      "ranches"
+    ],
+    "emoji": "🐄🌾"
+  },
+  "raw materials": {
+    "word": "raw materials",
+    "definition": "basic natural materials used to make other products",
+    "variations": [
+      "raw material",
+      "raw materials"
+    ],
+    "emoji": "🪵🪨"
+  },
+  "rearing": {
+    "word": "rearing",
+    "definition": "the keeping and caring for animals as they grow.",
+    "variations": [
+      "rear",
+      "rears",
+      "reared",
+      "rearing"
+    ],
+    "emoji": "🐐🐓"
+  },
+  "recycle": {
+    "word": "recycle",
+    "definition": "to use waste materials again to make new things.",
+    "variations": [
+      "recycle",
+      "recycles",
+      "recycled",
+      "recycling"
+    ],
+    "emoji": "♻️📄"
+  },
+  "recycling": {
+    "word": "recycling",
+    "definition": "the process of collecting used materials and making them into new things",
+    "variations": [
+      "recycle",
+      "recycles",
+      "recycled",
+      "recycling"
+    ],
+    "emoji": "♻️🧴"
+  },
+  "region": {
+    "word": "region",
+    "definition": "a large area of a country or the world that has something in common",
+    "variations": [
+      "region",
+      "regions"
+    ],
+    "emoji": "🗺️"
+  },
+  "regulate": {
+    "word": "regulate",
+    "definition": "to control something so that it works in the right way",
+    "variations": [
+      "regulate",
+      "regulates",
+      "regulated",
+      "regulating"
+    ],
+    "emoji": "⚙️🌤️"
+  },
+  "relationship": {
+    "word": "relationship",
+    "definition": "the way two or more things are connected to each other",
+    "variations": [
+      "relationship",
+      "relationships"
+    ],
+    "emoji": "🔗"
+  },
+  "relief": {
+    "word": "relief",
+    "definition": "the shape of the land in a place, including high and low areas",
+    "variations": [
+      "relief"
+    ],
+    "emoji": "🌍⛰️"
+  },
+  "relief feature": {
+    "word": "relief feature",
+    "definition": "a natural shape of the land, such as a mountain, valley, hill, plateau, plain, or basin",
+    "variations": [
+      "relief feature",
+      "relief features"
+    ],
+    "emoji": "🗺️⛰️"
+  },
+  "resource": {
+    "word": "resource",
+    "definition": "something useful in the environment that people can use to meet their needs",
+    "variations": [
+      "resource",
+      "resources"
+    ],
+    "emoji": "💧🌳⛏️"
+  },
+  "resources": {
+    "word": "resources",
+    "definition": "useful things from nature or the environment that people use",
+    "variations": [
+      "resource",
+      "resources"
+    ],
+    "emoji": "💧🌳🪨"
+  },
+  "respiratory": {
+    "word": "respiratory",
+    "definition": "connected to breathing and the lungs",
+    "variations": [
+      "respiratory"
+    ],
+    "emoji": "🫁"
+  },
+  "respiratory diseases": {
+    "word": "respiratory diseases",
+    "definition": "illnesses that affect breathing or the lungs",
+    "variations": [
+      "respiratory disease",
+      "respiratory diseases"
+    ],
+    "emoji": "🫁😷"
+  },
+  "responsible": {
+    "word": "responsible",
+    "definition": "having the duty to take care of something or someone",
+    "variations": [
+      "responsible",
+      "responsibility",
+      "responsibilities"
+    ],
+    "emoji": "✅🧑‍🏫"
+  },
+  "retain": {
+    "word": "retain",
+    "definition": "to keep or continue to hold something",
+    "variations": [
+      "retain",
+      "retains",
+      "retained",
+      "retaining"
+    ],
+    "emoji": "🫧✋"
+  },
+  "revenue": {
+    "word": "revenue",
+    "definition": "money received by a government, company or organisation",
+    "variations": [],
+    "emoji": "💰🏛️"
+  },
+  "rift valley": {
+    "word": "rift valley",
+    "definition": "a long, low area of land formed when the Earth's surface pulls apart",
+    "variations": [
+      "rift valley",
+      "rift valleys"
+    ],
+    "emoji": "⛰️🌍"
+  },
+  "river": {
+    "word": "river",
+    "definition": "a long natural flow of water that moves across the land",
+    "variations": [
+      "river",
+      "rivers"
+    ],
+    "emoji": "🏞️💦"
+  },
+  "runoff": {
+    "word": "runoff",
+    "definition": "water that flows over the ground after rain instead of sinking into the soil.",
+    "variations": [
+      "runoff"
+    ],
+    "emoji": "🌧️💦"
+  },
+  "safeguard": {
+    "word": "safeguard",
+    "definition": "to protect something from harm or danger",
+    "variations": [
+      "safeguard",
+      "safeguards",
+      "safeguarded",
+      "safeguarding"
+    ],
+    "emoji": "🛡️🌍"
+  },
+  "school environment": {
+    "word": "school environment",
+    "definition": "all the things found in and around a school",
+    "variations": [
+      "school environment",
+      "school environments"
+    ],
+    "emoji": "🏫🌳"
+  },
+  "sea level": {
+    "word": "sea level",
+    "definition": "the average height of the surface of the sea",
+    "variations": [
+      "sea level",
+      "sea levels"
+    ],
+    "emoji": "🌊📏"
+  },
+  "seedling": {
+    "word": "seedling",
+    "definition": "a young plant that has just started to grow",
+    "variations": [
+      "seedling",
+      "seedlings"
+    ],
+    "emoji": "🌱🪴"
+  },
+  "seine net": {
+    "word": "seine net",
+    "definition": "a large fishing net used to surround and catch fish in water",
+    "variations": [
+      "seine net",
+      "seine nets"
+    ],
+    "emoji": "🎣🐟"
+  },
+  "settlement": {
+    "word": "settlement",
+    "definition": "a place where people live",
+    "variations": [
+      "settlement",
+      "settlements"
+    ],
+    "emoji": "🏘️🏠"
+  },
+  "sewage": {
+    "word": "sewage",
+    "definition": "dirty water and human waste carried away from homes and buildings",
+    "variations": [
+      "sewage"
+    ],
+    "emoji": "🚰🦠"
+  },
+  "shifting cultivation": {
+    "word": "shifting cultivation",
+    "definition": "a type of farming where people farm one place for a time and then move to another place.",
+    "variations": [
+      "shifting cultivation"
+    ],
+    "emoji": "🌾🔥"
+  },
+  "slope": {
+    "word": "slope",
+    "definition": "the side of a hill or mountain that goes up or down",
+    "variations": [
+      "slope",
+      "slopes"
+    ],
+    "emoji": "📐⛰️"
+  },
+  "smoke": {
+    "word": "smoke",
+    "definition": "the grey or black gases that rise from fire or burning fuel",
+    "variations": [
+      "smoke",
+      "smokes",
+      "smoked",
+      "smoking"
+    ],
+    "emoji": "💨🔥"
+  },
+  "soil": {
+    "word": "soil",
+    "definition": "the top layer of the earth where plants grow",
+    "variations": [
+      "soil",
+      "soils"
+    ],
+    "emoji": "🌍🌿"
+  },
+  "soil erosion": {
+    "word": "soil erosion",
+    "definition": "the washing or blowing away of the top layer of soil",
+    "variations": [],
+    "emoji": "🌱💨"
+  },
+  "soil fertility": {
+    "word": "soil fertility",
+    "definition": "the ability of soil to help plants grow well",
+    "variations": [
+      "soil fertility"
+    ],
+    "emoji": "🌱🟫"
+  },
+  "sort": {
+    "word": "sort",
+    "definition": "to separate things into groups of the same kind",
+    "variations": [
+      "sort",
+      "sorts",
+      "sorted",
+      "sorting"
+    ],
+    "emoji": "🗂️"
+  },
+  "soundproof": {
+    "word": "soundproof",
+    "definition": "made to stop or reduce sound from passing through.",
+    "variations": [
+      "soundproof"
+    ],
+    "emoji": "🔇🏭"
+  },
+  "substance": {
+    "word": "substance",
+    "definition": "a particular kind of material.",
+    "variations": [
+      "substance",
+      "substances"
+    ],
+    "emoji": "🧪🪨"
+  },
+  "substitute": {
+    "word": "substitute",
+    "definition": "something used instead of something else.",
+    "variations": [
+      "substitute",
+      "substitutes",
+      "substituted",
+      "substituting"
+    ],
+    "emoji": "🔁✅"
+  },
+  "summit": {
+    "word": "summit",
+    "definition": "the highest point of a mountain",
+    "variations": [
+      "summit",
+      "summits"
+    ],
+    "emoji": "⛰️🏔️"
+  },
+  "surface": {
+    "word": "surface",
+    "definition": "the outside or top part of something",
+    "variations": [
+      "surface",
+      "surfaces"
+    ],
+    "emoji": "⬆️🌍"
+  },
+  "surroundings": {
+    "word": "surroundings",
+    "definition": "the place and things around a person or thing",
+    "variations": [
+      "surrounding",
+      "surroundings"
+    ],
+    "emoji": "🏞️👀"
+  },
+  "sustainable": {
+    "word": "sustainable",
+    "definition": "able to continue for a long time without causing harm or waste",
+    "variations": [
+      "sustainable",
+      "sustainability",
+      "sustain"
+    ],
+    "emoji": "♻️🌍"
+  },
+  "sustainably": {
+    "word": "sustainably",
+    "definition": "in a way that does not harm resources or the environment for the future",
+    "variations": [
+      "sustainable",
+      "sustainably",
+      "sustainability"
+    ],
+    "emoji": "♻️🌍"
+  },
+  "taxation": {
+    "word": "taxation",
+    "definition": "the system of collecting money from people and businesses for government use",
+    "variations": [],
+    "emoji": "💸🏛️"
+  },
+  "technology": {
+    "word": "technology",
+    "definition": "tools, machines, or methods used to solve problems or do work.",
+    "variations": [
+      "technology",
+      "technologies"
+    ],
+    "emoji": "⚙️💡"
+  },
+  "temperature": {
+    "word": "temperature",
+    "definition": "how hot or cold something is",
+    "variations": [
+      "temperature",
+      "temperatures"
+    ],
+    "emoji": "🌡️☀️❄️"
+  },
+  "textile": {
+    "word": "textile",
+    "definition": "cloth or fabric, or the industry that makes it.",
+    "variations": [
+      "textile",
+      "textiles"
+    ],
+    "emoji": "🧵👕"
+  },
+  "thrive": {
+    "word": "thrive",
+    "definition": "to grow well and stay healthy",
+    "variations": [
+      "thrive",
+      "thrives",
+      "thrived",
+      "thriving"
+    ],
+    "emoji": "🌱💚"
+  },
+  "tilling": {
+    "word": "tilling",
+    "definition": "preparing soil for planting by digging or turning it",
+    "variations": [
+      "till",
+      "tills",
+      "tilled",
+      "tilling"
+    ],
+    "emoji": "🪏🌍"
+  },
+  "timber": {
+    "word": "timber",
+    "definition": "wood prepared for building or making things",
+    "variations": [],
+    "emoji": "🪵🏠"
+  },
+  "topsoil": {
+    "word": "topsoil",
+    "definition": "the top layer of soil where most plants grow best",
+    "variations": [
+      "topsoil"
+    ],
+    "emoji": "🟤🌱"
+  },
+  "tourism": {
+    "word": "tourism",
+    "definition": "traveling to places for enjoyment or learning",
+    "variations": [
+      "tourism",
+      "tourist",
+      "tourists"
+    ],
+    "emoji": "🧳📸"
+  },
+  "tourist attraction": {
+    "word": "tourist attraction",
+    "definition": "a place or thing that people like to visit for interest or enjoyment",
+    "variations": [
+      "tourist attraction",
+      "tourist attractions"
+    ],
+    "emoji": "📸🧳"
+  },
+  "toxic": {
+    "word": "toxic",
+    "definition": "poisonous and harmful to living things.",
+    "variations": [
+      "toxic"
+    ],
+    "emoji": "☠️⚠️"
+  },
+  "transform": {
+    "word": "transform",
+    "definition": "to change something into a different form.",
+    "variations": [
+      "transform",
+      "transforms",
+      "transformed",
+      "transforming",
+      "transformation"
+    ],
+    "emoji": "🔄🏭"
+  },
+  "trespassing": {
+    "word": "trespassing",
+    "definition": "going onto land or property without permission",
+    "variations": [
+      "trespass",
+      "trespasses",
+      "trespassed",
+      "trespassing"
+    ],
+    "emoji": "🚫👣"
+  },
+  "typhoid": {
+    "word": "typhoid",
+    "definition": "a serious illness that can spread through contaminated food or water",
+    "variations": [
+      "typhoid"
+    ],
+    "emoji": "🤒💧"
+  },
+  "valley": {
+    "word": "valley",
+    "definition": "a low area of land between hills or mountains",
+    "variations": [
+      "valley",
+      "valleys"
+    ],
+    "emoji": "🏞️⬇️"
+  },
+  "vegetation": {
+    "word": "vegetation",
+    "definition": "plants growing in an area",
+    "variations": [],
+    "emoji": "🌿🌱"
+  },
+  "vehicle": {
+    "word": "vehicle",
+    "definition": "something used for carrying people or goods, such as a car or lorry",
+    "variations": [
+      "vehicle",
+      "vehicles"
+    ],
+    "emoji": "🚗🚌"
+  },
+  "volcanic eruption": {
+    "word": "volcanic eruption",
+    "definition": "an event in which a volcano throws out hot rock, ash and gases",
+    "variations": [
+      "volcanic eruptions"
+    ],
+    "emoji": "🌋"
+  },
+  "waste": {
+    "word": "waste",
+    "definition": "things that are no longer needed and are thrown away",
+    "variations": [
+      "waste",
+      "wastes",
+      "wasted",
+      "wasting"
+    ],
+    "emoji": "🗑️♻️"
+  },
+  "water pollution": {
+    "word": "water pollution",
+    "definition": "the dirtying of water by harmful substances or waste",
+    "variations": [
+      "water pollution"
+    ],
+    "emoji": "💧🗑️"
+  },
+  "waterborne": {
+    "word": "waterborne",
+    "definition": "carried or spread through water",
+    "variations": [
+      "waterborne"
+    ],
+    "emoji": "💧🦠"
+  },
+  "waterfall": {
+    "word": "waterfall",
+    "definition": "water that falls from a higher place to a lower place, usually over rocks",
+    "variations": [
+      "waterfall",
+      "waterfalls"
+    ],
+    "emoji": "💦🏞️"
+  },
+  "weather": {
+    "word": "weather",
+    "definition": "the condition of the air at a place over a short time, such as hot, rainy or windy",
+    "variations": [
+      "weather",
+      "weathered",
+      "weathering"
+    ],
+    "emoji": "☀️🌧️💨"
+  },
+  "weeding": {
+    "word": "weeding",
+    "definition": "removing unwanted plants from a garden or field",
+    "variations": [
+      "weed",
+      "weeds",
+      "weeded",
+      "weeding"
+    ],
+    "emoji": "🌿✋"
+  },
+  "wildlife": {
+    "word": "wildlife",
+    "definition": "animals living freely in nature",
+    "variations": [
+      "wildlife"
+    ],
+    "emoji": "🦁🐘"
+  },
+  "yield": {
+    "word": "yield",
+    "definition": "the amount of something produced, such as milk or crops.",
+    "variations": [
+      "yield",
+      "yields"
+    ],
+    "emoji": "🥛🌾"
+  },
+  "zero-grazing": {
+    "word": "zero-grazing",
+    "definition": "a system where animals are kept in one place and fed there instead of moving around to graze.",
+    "variations": [
+      "zero-grazing"
+    ],
+    "emoji": "🐄🏡"
+  }
+}
