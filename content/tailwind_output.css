@@ -8754,3 +8754,10 @@ span[data-word-index].bg-yellow-300 {
 .adt-body { font-size: 18px; line-height: 1.55; }
 .adt-caption { font-size: 16px; line-height: 1.4; }
 }
+
+/* The reader frame must span the viewport; page-specific inner wrappers keep body content centred. */
+#content.container { max-width: none; }
+
+/* Prevent short pages from being vertically centred by the document body. */
+body { align-items: stretch; justify-content: flex-start; }
+body > main { min-height: 100vh; }
