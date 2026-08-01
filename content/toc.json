@@ -1,5 +1,12 @@
 [
   {
+    "section_id": "pg004_sec001",
+    "href": "pg004_sec001.html",
+    "title": "Acknowledgements",
+    "chapter_id": "pg004_n0001",
+    "level": 1
+  },
+  {
     "section_id": "pg006_sec001",
     "href": "pg006_sec001.html",
     "title": "Introduction",
@@ -88,13 +95,6 @@
     "href": "pg019_sec001.html",
     "title": "Vocabulary",
     "chapter_id": "pg019_n0016",
-    "level": 2
-  },
-  {
-    "section_id": "pg020_sec001",
-    "href": "pg020_sec001.html",
-    "title": "Land",
-    "chapter_id": "pg020_n0003",
     "level": 2
   },
   {
@@ -308,8 +308,8 @@
     "level": 2
   },
   {
-    "section_id": "pg050_sec001",
-    "href": "pg050_sec001.html",
+    "section_id": "pg050_sec002",
+    "href": "pg050_sec002.html",
     "title": "Land conservation in our environment",
     "chapter_id": "pg050_n0001",
     "level": 2
@@ -343,18 +343,11 @@
     "level": 2
   },
   {
-    "section_id": "pg054_sec001",
-    "href": "pg054_sec001.html",
+    "section_id": "pg054_sec002",
+    "href": "pg054_sec002.html",
     "title": "Chapter Four",
     "chapter_id": "pg054_n0002",
     "level": 1
-  },
-  {
-    "section_id": "pg054_sec002",
-    "href": "pg054_sec002.html",
-    "title": "Introduction",
-    "chapter_id": "pg054_n0006",
-    "level": 2
   },
   {
     "section_id": "pg055_sec002",
@@ -376,13 +369,6 @@
     "title": "Human practices in water sources",
     "chapter_id": "pg058_n0004",
     "level": 2
-  },
-  {
-    "section_id": "pg059_sec001",
-    "href": "pg059_sec001.html",
-    "title": "Activity 2",
-    "chapter_id": "pg059_n0002",
-    "level": 3
   },
   {
     "section_id": "pg059_sec002",
@@ -490,8 +476,8 @@
     "level": 3
   },
   {
-    "section_id": "pg075_sec001",
-    "href": "pg075_sec001.html",
+    "section_id": "pg074_sec003",
+    "href": "pg074_sec003.html",
     "title": "Advantages of fishing",
     "chapter_id": "pg075_n0004",
     "level": 3
@@ -572,5 +558,12 @@
     "title": "Section C: Matching items",
     "chapter_id": "pg087_n0002",
     "level": 3
+  },
+  {
+    "section_id": "pg088_sec001",
+    "href": "pg088_sec001.html",
+    "title": "Bibliography",
+    "chapter_id": "pg088_n0001",
+    "level": 1
   }
 ]

@@ -25,7 +25,7 @@
   var pageId = metaTitleId ? metaTitleId.getAttribute('content') : '';
 
   // All activity IDs in this ADT (embedded at generation time)
-  var ALL_ACTIVITY_IDS = ["qz001","qz002","qz003","qz004","qz005","qz006","qz007"];
+  var ALL_ACTIVITY_IDS = [];
   var hasActivities = ALL_ACTIVITY_IDS.length > 0;
 
   // --- Record where the learner is ---

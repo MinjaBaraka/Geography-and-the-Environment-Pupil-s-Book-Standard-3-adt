@@ -26,7 +26,9 @@
               adlcp:scormtype="sco"
               href="index.html">
       <file href="index.html"/>
+      <file href="pg002_sec001.html"/>
       <file href="pg003_sec001.html"/>
+      <file href="pg004_sec001.html"/>
       <file href="pg005_sec001.html"/>
       <file href="pg006_sec001.html"/>
       <file href="pg007_sec001.html"/>
@@ -36,22 +38,17 @@
       <file href="pg010_sec002.html"/>
       <file href="pg011_sec001.html"/>
       <file href="pg012_sec001.html"/>
-      <file href="pg013_sec001.html"/>
       <file href="pg013_sec002.html"/>
       <file href="pg013_sec003.html"/>
       <file href="pg013_sec004.html"/>
-      <file href="pg014_sec001.html"/>
       <file href="pg014_sec002.html"/>
       <file href="pg015_sec001.html"/>
       <file href="pg015_sec002.html"/>
-      <file href="pg016_sec001.html"/>
       <file href="pg016_sec002.html"/>
       <file href="pg017_sec001.html"/>
       <file href="pg018_sec001.html"/>
       <file href="pg018_sec002.html"/>
       <file href="pg019_sec001.html"/>
-      <file href="pg020_sec001.html"/>
-      <file href="qz001.html"/>
       <file href="pg021_sec001.html"/>
       <file href="pg022_sec001.html"/>
       <file href="pg022_sec002.html"/>
@@ -66,10 +63,8 @@
       <file href="pg029_sec001.html"/>
       <file href="pg030_sec001.html"/>
       <file href="pg031_sec001.html"/>
-      <file href="pg032_sec001.html"/>
       <file href="pg032_sec002.html"/>
       <file href="pg032_sec003.html"/>
-      <file href="qz002.html"/>
       <file href="pg033_sec001.html"/>
       <file href="pg033_sec002.html"/>
       <file href="pg033_sec003.html"/>
@@ -79,7 +74,6 @@
       <file href="pg036_sec001.html"/>
       <file href="pg036_sec002.html"/>
       <file href="pg037_sec001.html"/>
-      <file href="pg037_sec002.html"/>
       <file href="pg038_sec001.html"/>
       <file href="pg038_sec002.html"/>
       <file href="pg038_sec003.html"/>
@@ -93,31 +87,24 @@
       <file href="pg044_sec001.html"/>
       <file href="pg044_sec002.html"/>
       <file href="pg045_sec001.html"/>
-      <file href="pg046_sec001.html"/>
       <file href="pg046_sec002.html"/>
       <file href="pg046_sec003.html"/>
-      <file href="qz003.html"/>
       <file href="pg047_sec001.html"/>
       <file href="pg047_sec002.html"/>
       <file href="pg047_sec003.html"/>
-      <file href="pg048_sec001.html"/>
       <file href="pg049_sec001.html"/>
-      <file href="pg050_sec001.html"/>
       <file href="pg050_sec002.html"/>
       <file href="pg051_sec001.html"/>
       <file href="pg051_sec002.html"/>
       <file href="pg052_sec001.html"/>
       <file href="pg053_sec001.html"/>
       <file href="pg053_sec002.html"/>
-      <file href="pg054_sec001.html"/>
       <file href="pg054_sec002.html"/>
       <file href="pg055_sec001.html"/>
       <file href="pg055_sec002.html"/>
       <file href="pg056_sec001.html"/>
       <file href="pg057_sec001.html"/>
-      <file href="qz004.html"/>
       <file href="pg058_sec001.html"/>
-      <file href="pg059_sec001.html"/>
       <file href="pg059_sec002.html"/>
       <file href="pg060_sec001.html"/>
       <file href="pg060_sec002.html"/>
@@ -128,7 +115,6 @@
       <file href="pg065_sec001.html"/>
       <file href="pg066_sec001.html"/>
       <file href="pg067_sec001.html"/>
-      <file href="qz005.html"/>
       <file href="pg068_sec001.html"/>
       <file href="pg069_sec001.html"/>
       <file href="pg069_sec002.html"/>
@@ -139,10 +125,8 @@
       <file href="pg074_sec001.html"/>
       <file href="pg074_sec002.html"/>
       <file href="pg074_sec003.html"/>
-      <file href="pg075_sec001.html"/>
       <file href="pg076_sec001.html"/>
       <file href="pg077_sec001.html"/>
-      <file href="qz006.html"/>
       <file href="pg078_sec001.html"/>
       <file href="pg079_sec001.html"/>
       <file href="pg079_sec002.html"/>
@@ -152,11 +136,11 @@
       <file href="pg083_sec001.html"/>
       <file href="pg083_sec002.html"/>
       <file href="pg084_sec001.html"/>
-      <file href="qz007.html"/>
       <file href="pg085_sec001.html"/>
       <file href="pg086_sec001.html"/>
       <file href="pg086_sec002.html"/>
       <file href="pg087_sec001.html"/>
+      <file href="pg088_sec001.html"/>
     </resource>
   </resources>
 
