@@ -9,6 +9,14 @@
   <link href="./content/tailwind_output.css" rel="stylesheet">
   <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
   <link href="./assets/fonts.css" rel="stylesheet">
+    <link href="./assets/geography-responses.css" rel="stylesheet">
+  <style>
+    @media (min-width: 640px) {
+      #publication-contact-details {
+        grid-template-columns: 10rem minmax(0, 1fr);
+      }
+    }
+  </style>
 </head>
 <body class="min-h-screen flex items-center justify-center">
   <main class="w-full">
@@ -20,10 +28,13 @@
           <p data-id="pg002_n0003" class="adt-body italic">ISBN: 978-9987-09-968-9</p>
           <div class="space-y-2">
             <p data-id="pg002_n0004" class="adt-body italic">Tanzania Institute of Education</p>
-            <p data-id="pg002_n0005" class="adt-body italic">Mikocheni Area<br>132 Ali Hassan Mwinyi Road<br>P.O. Box 35094<br>14112 Dar es Salaam</p>
+            <p data-id="pg002_n0005" class="adt-body italic">Mikocheni Area</p>
+            <p data-id="pg002_n0013" class="adt-body italic">132 Ali Hassan Mwinyi Road</p>
+            <p data-id="pg002_n0014" class="adt-body italic">P.O.Box 35094</p>
+            <p data-id="pg002_n0015" class="adt-body italic">14112 Dar-es-Salaam</p>
           </div>
-          <div class="grid grid-cols-1 gap-2 sm:grid-cols-[9rem_1fr]">
-            <p data-id="pg002_n0006" class="adt-body italic">Telephone:</p><p data-id="pg002_n0007" class="adt-body italic">+255 735 041 170 / 735 041 168</p>
+          <div id="publication-contact-details" class="grid grid-cols-1 gap-y-2 sm:gap-x-4">
+            <p data-id="pg002_n0006" class="adt-body italic">Telephone:</p><p data-id="pg002_n0007" class="adt-body italic">+255735041170/735041168</p>
             <p data-id="pg002_n0008" class="adt-body italic">Email:</p><p data-id="pg002_n0009" class="adt-body italic">director.general@tie.go.tz</p>
             <p data-id="pg002_n0010" class="adt-body italic">Website:</p><p data-id="pg002_n0011" class="adt-body italic">www.tie.go.tz</p>
           </div>
@@ -36,6 +47,7 @@
   <div class="relative z-50" id="nav-container"></div>
   <script src="./assets/offline-preloader.js"></script>
   <script src="./assets/scorm.js"></script>
-  <script src="./assets/base.bundle.local.js"></script>
+  <script src="./assets/geography-responses.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
 </body>
 </html>

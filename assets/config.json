@@ -1,6 +1,6 @@
 {
   "title": "Geography and the Environment Pupil’s Book Standard 3",
-  "bundleVersion": "1",
+  "bundleVersion": "2",
   "languages": {
     "available": [
       "en-GB"
@@ -44,5 +44,16 @@
     "theme",
     "iconSize",
     "reduceMotion"
-  ]
+  ],
+  "braille": {
+    "enabled": true,
+    "implementationPhase": "native-baseline-and-educator-review-manifest",
+    "nativeTextInput": true,
+    "drawingResponses": true,
+    "sixKeyInput": false,
+    "translationTable": null,
+    "translationStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+    "activityManifest": "content/accessibility/braille-activity-manifest.json",
+    "sixKeyPilotStatus": "not-enabled-awaiting-specialist-approval"
+  }
 }
