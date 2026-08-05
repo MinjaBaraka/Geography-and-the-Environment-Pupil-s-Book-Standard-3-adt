@@ -46,14 +46,14 @@
     "reduceMotion"
   ],
   "braille": {
-    "enabled": true,
-    "implementationPhase": "native-baseline-and-educator-review-manifest",
-    "nativeTextInput": true,
-    "drawingResponses": true,
+    "enabled": false,
+    "implementationPhase": "not-applicable-to-this-title",
+    "nativeTextInput": false,
+    "drawingResponses": false,
     "sixKeyInput": false,
     "translationTable": null,
-    "translationStatus": "awaiting-qualified-tanzanian-braille-educator-review",
-    "activityManifest": "content/accessibility/braille-activity-manifest.json",
-    "sixKeyPilotStatus": "not-enabled-awaiting-specialist-approval"
+    "translationStatus": "not-applicable",
+    "activityManifest": null,
+    "sixKeyPilotStatus": "not-applicable"
   }
 }

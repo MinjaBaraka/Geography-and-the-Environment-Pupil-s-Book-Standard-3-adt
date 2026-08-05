@@ -1,7 +1,16 @@
 (function () {
   "use strict";
 
+  // Drawing and Braille response conversion is only used for eligible
+  // Kuandika/Writing titles below Standard 3. This Geography title keeps
+  // its native lined writing areas.
+  var DRAWING_RESPONSES_ENABLED = false;
   var BOOK_STORAGE_PREFIX = "adt-geography-standard-3:";
+  var EXPLICIT_ACTIVITY_PROMPTS = {
+    "pg022_sec001:1": ["pg022_n0003"],
+    "pg024_sec001:1": ["pg024_n0003", "pg024_n0004"],
+    "pg044_sec001:1": ["pg044_n0005", "pg044_n0006", "pg044_n0007"],
+  };
 
   function storageKey(id) {
     return BOOK_STORAGE_PREFIX + location.pathname + ":" + id;
@@ -67,6 +76,160 @@
     };
   }
 
+  function hasResponseControl(node) {
+    return Boolean(
+      node &&
+      node.querySelector &&
+      node.querySelector("textarea, input, canvas, select, button, table, figure, img")
+    );
+  }
+
+  function isPromptCandidate(node) {
+    if (!node || hasResponseControl(node)) return false;
+    if (node.matches("h1, h2, h3, h4, h5, h6")) return false;
+    return node.textContent.replace(/\s+/g, " ").trim().length > 0;
+  }
+
+  function explicitPromptElements(textarea, section, responseIndex) {
+    if (!section) return [];
+    var responseNumber = responseIndex + 1;
+    var key = section.getAttribute("data-section-id") + ":" + responseNumber;
+    var ids = EXPLICIT_ACTIVITY_PROMPTS[key];
+    if (!ids) return [];
+
+    var nodes = ids.map(function (id) {
+      return section.querySelector('[data-id="' + id + '"]');
+    }).filter(Boolean);
+    if (!nodes.length) return [];
+    if (nodes.length === 1) {
+      return [nodes[0].closest("p, label, div") || nodes[0]];
+    }
+
+    var common = nodes[0].parentElement;
+    while (
+      common &&
+      common !== section &&
+      !nodes.every(function (node) { return common.contains(node); })
+    ) {
+      common = common.parentElement;
+    }
+    return common && common !== section ? [common] : nodes;
+  }
+
+  function associatedPromptElements(textarea, responseIndex) {
+    var section = textarea.closest("section[data-section-id]");
+    var explicitPrompts = explicitPromptElements(textarea, section, responseIndex);
+    if (explicitPrompts.length) return explicitPrompts;
+    var promptSelector = textarea.getAttribute("data-inclusive-prompt-selector");
+    if (promptSelector) {
+      var selectedPrompt = document.querySelector(promptSelector);
+      if (isPromptCandidate(selectedPrompt)) return [selectedPrompt];
+    }
+    var previous = textarea.previousElementSibling;
+
+    if (isPromptCandidate(previous)) {
+      if (previous.matches("p, label, span")) {
+        var prompts = [];
+        while (
+          previous &&
+          previous.matches("p, label, span") &&
+          isPromptCandidate(previous)
+        ) {
+          prompts.unshift(previous);
+          previous = previous.previousElementSibling;
+        }
+        return prompts;
+      }
+      return [previous];
+    }
+
+    var current = textarea.parentElement;
+    while (current && current !== section) {
+      previous = current.previousElementSibling;
+      if (isPromptCandidate(previous)) return [previous];
+      current = current.parentElement;
+    }
+    return [];
+  }
+
+  function appendPromptContent(source, target) {
+    function appendNode(node, destination) {
+      if (node.nodeType === Node.TEXT_NODE) {
+        destination.appendChild(document.createTextNode(node.textContent));
+        return;
+      }
+      if (node.nodeType !== Node.ELEMENT_NODE) return;
+      if (node.tagName === "BR") {
+        destination.appendChild(document.createTextNode(" "));
+        return;
+      }
+
+      var nextDestination = destination;
+      if (node.hasAttribute("data-id")) {
+        var span = document.createElement("span");
+        ["data-id", "aria-label", "lang", "data-tts-ignore", "aria-hidden"].forEach(
+          function (attribute) {
+            if (node.hasAttribute(attribute)) {
+              span.setAttribute(attribute, node.getAttribute(attribute));
+            }
+          }
+        );
+        destination.appendChild(span);
+        nextDestination = span;
+      }
+      Array.from(node.childNodes).forEach(function (child) {
+        appendNode(child, nextDestination);
+      });
+    }
+
+    appendNode(source, target);
+  }
+
+  function buildInclusiveInstruction(textarea, meta, responseIndex) {
+    var instruction = element("p", {
+      class: "inclusive-instruction",
+      id: meta.instructionId,
+    });
+    var prompts = associatedPromptElements(textarea, responseIndex);
+
+    if (prompts.length) {
+      prompts.forEach(function (prompt, promptIndex) {
+        if (promptIndex) instruction.appendChild(document.createTextNode(" "));
+        appendPromptContent(prompt, instruction);
+      });
+      prompts.forEach(function (prompt) {
+        prompt.remove();
+      });
+    } else {
+      instruction.appendChild(document.createTextNode(meta.answerLabel));
+    }
+
+    instruction.appendChild(document.createTextNode(" "));
+    instruction.appendChild(element("span", {
+      "data-id": meta.instructionId,
+    }, meta.instruction));
+    return instruction;
+  }
+
+  function mergeSharedQuestionTextareas(textareas) {
+    return textareas.filter(function (textarea, index) {
+      if (!index) return true;
+      var previous = textareas[index - 1];
+      if (
+        textarea.parentElement !== previous.parentElement ||
+        textarea.previousElementSibling !== previous
+      ) {
+        return true;
+      }
+
+      var previousLabel = previous.getAttribute("aria-label") || "Answer";
+      var currentLabel = textarea.getAttribute("aria-label") || "additional answer";
+      previous.setAttribute("aria-label", previousLabel + "; " + currentLabel);
+      textarea.remove();
+      return false;
+    });
+  }
+
   function element(name, attributes, text) {
     var node = document.createElement(name);
     Object.keys(attributes || {}).forEach(function (key) {
@@ -85,11 +248,7 @@
       "data-drawing-response-id": meta.baseId,
     });
 
-    var instruction = element("p", {
-      class: "inclusive-instruction",
-      id: meta.instructionId,
-      "data-id": meta.instructionId,
-    }, meta.instruction);
+    var instruction = buildInclusiveInstruction(textarea, meta, index);
     wrapper.appendChild(instruction);
 
     var canvasWrap = element("div", {
@@ -348,11 +507,13 @@
   }
 
   function initialise() {
+    if (!DRAWING_RESPONSES_ENABLED) return;
     var textareas = Array.from(
       document.querySelectorAll(
         'section[data-section-type="activity_open_ended_answer"] textarea:not([data-no-drawing])'
       )
     );
+    textareas = mergeSharedQuestionTextareas(textareas);
     var canvases = textareas.map(buildDrawingResponse);
     document
       .querySelectorAll('input[data-practice-storage]:not([data-canvas-response])')
@@ -366,4 +527,3 @@
     initialise();
   }
 })();
-

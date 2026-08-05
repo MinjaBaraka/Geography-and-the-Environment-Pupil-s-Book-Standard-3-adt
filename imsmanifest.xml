@@ -94,9 +94,7 @@
       <file href="pg047_sec003.html"/>
       <file href="pg049_sec001.html"/>
       <file href="pg050_sec002.html"/>
-      <file href="pg051_sec001.html"/>
       <file href="pg051_sec002.html"/>
-      <file href="pg052_sec001.html"/>
       <file href="pg053_sec001.html"/>
       <file href="pg053_sec002.html"/>
       <file href="pg054_sec002.html"/>
@@ -137,12 +135,14 @@
       <file href="pg083_sec002.html"/>
       <file href="pg084_sec001.html"/>
       <file href="pg085_sec001.html"/>
-      <file href="pg086_sec001.html"/>
       <file href="pg086_sec002.html"/>
       <file href="pg087_sec001.html"/>
       <file href="pg088_sec001.html"/>
       <file href="assets/geography-responses.css"/>
       <file href="assets/geography-responses.js"/>
+      <file href="assets/figure-instructions.js"/>
+      <file href="images/pg009_fig002.png"/>
+      <file href="images/pg023_im001.png"/>
       <file href="content/accessibility/braille-activity-manifest.json"/>
       <file href="content/i18n/en-GB/audio/geography_drawing_response_instruction.mp3"/>
       <file href="content/i18n/en-GB/audio/pg044_dust_bin_design_instruction.mp3"/>
