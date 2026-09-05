@@ -7673,3 +7673,22 @@ math mtable { line-height: normal; }
 /* Wide sums scroll instead of overflowing the reading column. */
 math[display="block"] { display: block math; overflow-x: auto; max-width: 100%; }
 }
+/* Cover pages match the established full-page ADT treatment. */
+#content.cover-reader-content {
+  max-width: 52rem;
+  background: transparent;
+}
+
+.cover-reader-content .semantic-page {
+  margin: 0 auto;
+  max-width: 72rem;
+}
+
+.cover-only-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 0;
+  object-fit: contain;
+}
