@@ -32,27 +32,114 @@
 }
 
 @font-face {
-  font-family: 'Merriweather';
-  src: url('./fonts/Merriweather-VariableFont.woff2') format('woff2');
-  font-weight: 300 800;
+  font-family: 'Sassoon Primary';
+  src: url('./fonts/SassoonPrimaryWeb.ttf') format('truetype');
+  font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
-@font-face {
-  font-family: 'Merriweather';
-  src: url('./fonts/Merriweather-Italic-VariableFont.woff2') format('woff2');
-  font-weight: 300 800;
-  font-style: italic;
-  font-display: swap;
+/* Browser-safe rebuild of the Sassoon Primary face used in the source book. */
+body {
+  font-family: "Sassoon Primary", "Atkinson Hyperlegible", sans-serif;
 }
 
-/* Apply the font globally */
-body, p, h1, h2, h3, h4, h5, h6, span, div, button, input, textarea, select {
-  font-family: "Merriweather", serif;
+#content {
+  --book-size-title: 42px;
+  --book-size-section: 34px;
+  --book-size-subheading: 29px;
+  --book-size-body: 24px;
+  --book-size-caption: 20px;
+  font-size: var(--book-size-body) !important;
+  line-height: 1.55;
+}
+
+#content,
+#content * {
+  font-family: "Sassoon Primary", "Atkinson Hyperlegible", sans-serif !important;
+  font-style: normal !important;
+}
+
+/* One semantic type scale for every content page. */
+#content h1,
+#content .adt-h1 {
+  font-size: var(--book-size-title) !important;
+  line-height: 1.2 !important;
+}
+
+#content h2,
+#content .adt-h2 {
+  font-size: var(--book-size-section) !important;
+  line-height: 1.2 !important;
+}
+
+#content h3,
+#content .adt-h3 {
+  font-size: var(--book-size-subheading) !important;
+  line-height: 1.2 !important;
+}
+
+#content h4 {
+  font-size: 26px !important;
+  line-height: 1.3 !important;
+}
+
+#content :is(h5, h6, p, li, dt, dd, label, input, textarea, select, button),
+#content .adt-body,
+#content :is(th, td) {
+  font-size: var(--book-size-body) !important;
+}
+
+#content :is(p, li, dt, dd, label),
+#content .adt-body,
+#content :is(th, td) {
+  line-height: 1.55 !important;
+}
+
+/* Tables always use the body scale, even when legacy heading utilities remain. */
+#content table :is(th, td),
+#content table :is(th, td).adt-h1,
+#content table :is(th, td).adt-h2,
+#content table :is(th, td).adt-h3,
+#content table :is(th, td).adt-body {
+  font-size: var(--book-size-body) !important;
+  line-height: 1.55 !important;
+}
+
+#content :is(figcaption, small),
+#content .adt-caption,
+#content [data-tts-ignore]:not(.sr-only) {
+  font-size: var(--book-size-caption) !important;
+  line-height: 1.4 !important;
+}
+
+/* Normalize the few legacy pages that put size utilities on non-heading wrappers. */
+#content :is(div, span):is(.text-lg, .text-xl, .text-2xl) {
+  font-size: var(--book-size-body) !important;
+  line-height: 1.55 !important;
+}
+
+#content :is(div, span).text-3xl {
+  font-size: var(--book-size-subheading) !important;
+  line-height: 1.2 !important;
+}
+
+#content :is(div, span):is(.text-4xl, .text-5xl) {
+  font-size: var(--book-size-section) !important;
+  line-height: 1.2 !important;
+}
+
+#content .book-panel-title {
+  font-size: var(--book-size-section) !important;
+  line-height: 1.2 !important;
+}
+
+/* Keep icon glyphs on their dedicated icon font. */
+#content :is(.fa, .fas, .far, .fab, .fa-solid, .fa-regular, .fa-brands, .fa-classic) {
+  font-family: var(--_fa-family) !important;
 }
 
 #nav-container, #nav-container *,
 #interface-container, #interface-container * {
-  font-family: 'Atkinson Hyperlegible', sans-serif;
+  font-family: 'Atkinson Hyperlegible', sans-serif !important;
 }

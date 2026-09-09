@@ -4129,7 +4129,7 @@
     text-transform: uppercase;
   }
   .italic {
-    font-style: italic;
+    font-style: normal;
   }
   .not-italic {
     font-style: normal;
