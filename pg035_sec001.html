@@ -16,6 +16,89 @@
     <link href="./assets/geography-responses.css" rel="stylesheet">
     <link href="./assets/reader-chrome-overrides.css?v=reader-fixes-20260827-2" rel="stylesheet">
 <link rel="stylesheet" href="./assets/sign-language-video.css">
+  <style>
+    #content .pg035-think-panel {
+      overflow: hidden;
+      border: 3px solid #22d3ee;
+      border-radius: 1.75rem;
+      background: #fff1f2;
+      box-shadow: 0 4px 10px rgba(15, 23, 42, 0.1);
+    }
+
+    #content .pg035-think-layout {
+      position: relative;
+    }
+
+    #content .pg035-think-header {
+      display: flex;
+      min-height: 3rem;
+      align-items: center;
+      padding: 0.375rem 1rem;
+      background: linear-gradient(90deg, #0877ad 0%, #e4e9b5 48%, #9be5e1 100%);
+    }
+
+    #content .pg035-think-spacer {
+      width: 8rem;
+      flex: 0 0 8rem;
+    }
+
+    #content .pg035-think-title {
+      margin: 0;
+      border-radius: 0 0.75rem 0.75rem 0;
+      padding: 0.2rem 2rem;
+      background: #0877ad;
+      color: #fff;
+      box-shadow: 0 2px 4px rgba(15, 23, 42, 0.2);
+    }
+
+    #content .pg035-think-body {
+      display: flex;
+      min-height: 7rem;
+      align-items: center;
+      padding: 1rem 1.5rem 1rem 10rem;
+    }
+
+    #content .pg035-think-icon {
+      position: absolute;
+      top: 0.55rem;
+      left: 1.25rem;
+      display: flex;
+      width: 7rem;
+      height: 7rem;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      border: 5px solid #d8b0b4;
+      border-radius: 9999px;
+      background: #fff;
+      box-shadow: inset 0 2px 5px rgba(15, 23, 42, 0.12);
+    }
+
+    @media (max-width: 640px) {
+      #content .pg035-think-spacer {
+        width: 5.5rem;
+        flex-basis: 5.5rem;
+      }
+
+      #content .pg035-think-title {
+        padding-right: 1.25rem;
+        padding-left: 1.25rem;
+      }
+
+      #content .pg035-think-body {
+        min-height: 5.5rem;
+        padding: 0.75rem 0.875rem 0.75rem 6.75rem;
+      }
+
+      #content .pg035-think-icon {
+        top: 0.75rem;
+        left: 0.75rem;
+        width: 5rem;
+        height: 5rem;
+        border-width: 4px;
+      }
+    }
+  </style>
 </head>
 
 <body class="min-h-screen flex items-center justify-center">
@@ -54,22 +137,17 @@
             </p>
           </div>
 
-          <aside
-            class="rounded-[1.75rem] border-2 border-cyan-300 bg-gradient-to-r from-rose-50 to-cyan-50 shadow-sm overflow-hidden">
-            <div class="flex items-stretch max-lg:flex-col">
-              <div
-                class="w-40 max-lg:w-full flex items-center justify-center p-4 bg-rose-50 border-r-2 border-cyan-200 max-lg:border-r-0 max-lg:border-b-2">
-                <div
-                  class="flex h-28 w-28 items-center justify-center overflow-hidden rounded-full border-[5px] border-[#d8b0b4] bg-white shadow-inner">
-                  <img src="images/pg054_im001.png" alt="" role="presentation" aria-hidden="true"
-                    class="block object-contain" style="height: 100%; width: auto; max-width: 100%; object-fit: contain;">
-                </div>
+          <aside class="pg035-think-panel">
+            <div class="pg035-think-layout">
+              <div class="pg035-think-header">
+                <div class="pg035-think-spacer" aria-hidden="true"></div>
+                <h3 data-id="pg035_n0016" class="adt-h3 pg035-think-title text-left font-bold book-panel-title">Think</h3>
               </div>
-              <div class="flex-1">
-                <div class="bg-gradient-to-r from-blue-600 to-cyan-400 px-6 py-2">
-                  <h3 data-id="pg035_n0016" class="adt-h3 text-left font-extrabold text-white book-panel-title">Think</h3>
+              <div class="pg035-think-body">
+                <div class="pg035-think-icon">
+                  <img src="images/pg054_im001.png" alt="" role="presentation" aria-hidden="true" class="block h-full w-auto object-contain" style="max-width: 100%;">
                 </div>
-                <p class="adt-body px-6 py-5 text-left text-slate-800">
+                <p class="adt-body text-left leading-relaxed text-slate-800">
                   <span data-id="pg035_n0018">The quality of the environment in which you live</span>
                 </p>
               </div>
@@ -83,12 +161,12 @@
 
   <div class="relative z-50" id="interface-container"></div>
   <div class="relative z-50" id="nav-container"></div>
-  <script src="./assets/offline-preloader.js?v=12"></script>
+  <script src="./assets/offline-preloader.js?v=14"></script>
   <script src="./assets/scorm.js"></script>
   <script src="./assets/geography-responses.js"></script>
     
     <script src="./assets/media-playback-independence.js"></script>
-<script src="./assets/base.bundle.local.js?v=12"></script>
+<script src="./assets/base.bundle.local.js?v=14"></script>
 <script src="./assets/sign-language-video.js"></script>
     <script src="./assets/mobile-sheet-drag.js?v=responsive-20260827"></script>
     
